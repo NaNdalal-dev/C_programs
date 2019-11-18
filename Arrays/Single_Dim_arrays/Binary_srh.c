@@ -39,7 +39,7 @@ scanf("%d",&srch);
 
 if(left>right)
 {
-printf("%d not found\n search failed!");
+printf("%d not found\n search failed!",srch);
 }
 
 }
